@@ -282,3 +282,4 @@ We expect all Gaianet contributors to abide by the terms of our [Code of Conduct
 <a href="https://github.com/GaiaNet-AI/gaianet-node/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GaiaNet-AI/gaianet-node" alt="Gaia project contributors" />
 </a>
+<!-- test commit 4 - Fully Homomorphic 🔐 -->
