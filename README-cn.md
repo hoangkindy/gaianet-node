@@ -233,6 +233,7 @@ gaianet config --chat-ctx-size 5120
 $ gaianet config --help
 
 Usage: gaianet config [OPTIONS]
+<!-- test commit 14 - Your data’s safe, even from you -->
 
 Options:
   --chat-url <url>               Update the url of chat model.
